@@ -2,7 +2,7 @@
 
    ```Learn and accelerate programming quickly.```
 
-<p><i>It is hard to explain reactive programming in a nutshell. Well, at least I couldn’t find any. You can say that reactive programming is an <b>Observer template</b> on steroids. Or rather, reactive programming is programming aimed at <b>flows</b>. The main idea is in presenting <b>events</b> and <b>data</b> as flows that can be <b>unified<b>, <b>filtered</b>, <b>transformed</b>, and <b>separated</b>. Sounds quite <b>vague</b> but I hope some of the examples below will help make sense of it.``</i></p>
+<p><i>Write better Android apps <b>faster</b> with Kotlin. Kotlin is a modern statically typed programming language that will boost your productivity and <b>increase</b> your developer happiness.</i></p>
   
 ## Understand `Observable`
 
