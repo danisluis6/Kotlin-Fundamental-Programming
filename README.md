@@ -4,10 +4,19 @@
 
 <p><i>Write better Android apps <b>faster</b> with Kotlin. Kotlin is a modern statically typed programming language that will boost your productivity and <b>increase</b> your developer happiness.</i></p>
   
-## Understand `Observable`
+## Understand `main`
 
-``The basic building blocks of reactive code are Observables and Subscribers. The Observable class is the <b>source of data</b> and the Subscriber class is <b>the consumer</b>.``
-![alt text](https://github.com/danisluis6/RxJava-Introduction/blob/level_research_reactive/Deeply/1.png)
+```java
+public static void main(String[] args) {
+    System.out.print("Welcome to Kotlin");
+}
+```
+
+```kt
+fun main(args:Array<String>) {
+    print("Welcome to Kotlin")
+}
+```
 
 ## We Research about "Observe Design Pattern"
 
