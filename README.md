@@ -18,4 +18,16 @@ fun main(args:Array<String>) {
 }
 ```
 
+## Understand declare variable static public in class
 
+```java
+public static String tag = .class.getSimpleName()
+public static final String ACCESS_WIFI_STATE = 0
+```
+
+```kt
+companion object {
+    @JvmStatic var tag:String = MainActivity.javaClass.simpleName
+    const val WIFI_CODE:Int = 0
+}
+```
